@@ -1,0 +1,6 @@
+framework module Pods_Plan_In_Calendar {
+  umbrella header "Pods-Plan In Calendar-umbrella.h"
+
+  export *
+  module * { export * }
+}

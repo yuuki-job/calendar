@@ -1,0 +1,6 @@
+framework module Pods_Plan_In_Calendar_Plan_In_CalendarUITests {
+  umbrella header "Pods-Plan In Calendar-Plan In CalendarUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
