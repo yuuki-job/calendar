@@ -17,5 +17,5 @@ target 'Plan In Calendar' do
   end
 
 pod 'FSCalendar'
-
+pod 'RealmSwift'
 end
